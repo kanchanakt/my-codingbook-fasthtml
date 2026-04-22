@@ -1,0 +1,4 @@
+python-dotenv==1.2.2
+python_fasthtml==0.13.3
+pytz==2026.1.post1
+supabase==2.28.3
