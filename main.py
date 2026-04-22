@@ -93,3 +93,6 @@ def post(name: str, message: str):
 
 if __name__ == "__main__":
     serve()
+
+# Add this line:
+application = app
