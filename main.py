@@ -91,4 +91,5 @@ def post(name: str, message: str):
     add_message(name, message)
     return render_message_list()
 
-serve()
+if __name__ == "__main__":
+    serve()
